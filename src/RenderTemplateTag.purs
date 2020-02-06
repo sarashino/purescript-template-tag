@@ -1,4 +1,5 @@
-module RenderTemplateTag where
+module RenderTemplateTag
+    ( renderTemplate ) where
 
 import Prelude (Unit)
 import Effect (Effect)
